@@ -45,7 +45,7 @@
 
   - [LSP](.)
     - [x] cbfmt: fromat code in `md`
-      -[stow](.)
+  - [stow](.)
     - [x] create my `uncrustify` format code for c
 
 - **2022-10-28 Fir**
@@ -62,16 +62,16 @@
     - [ ] why `tree-sitter` not detect with `colorscheme`
   - [yt](.)
     - [x] complet `yt`
-    - [x] tow xshkd key super+y or super+shift+y
+    - [x] tow `sxhkd` keys: `super`+`y` or `super`+`shift`+`y`
   - [nvim](.)
     - [x] more startup improvement
-    - [x] plugin: cursur word highlit others too
+    - [x] plugin: cursur word highlight others too,(removed)
     - [ ] cmp: not load with opt
 
 - **2022-10-26 Wen**
 
   - [yt-generator](.)
-    - [x] limit video by day left, using seceonds to calculate diff to left day
+    - [ ] limit video by day left, using seceonds to calculate diff to left day
     - [x] concateneate all ar/en playlist
   - [patch dmenu](.)
     - [x] alpha
