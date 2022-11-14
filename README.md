@@ -1,3 +1,3 @@
+![Ayoub's github stats](https://github-readme-stats.vercel.app/api?username=ayoubelmhamdi&count_private=true&show_icons=true)
 
-| [![Ayoub's github stats](https://github-readme-stats.vercel.app/api?username=ayoubelmhamdi&count_private=true&show_icons=true)](https://github.com/ayoubelmhamdi)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelmhamdi&hide=php)](https://github.com/ayoubelmhamdi)  |
-|:---:|:---:|
+![Ayoub Elmhamdi](https://activity-graph.herokuapp.com/graph?username=ayoubelmhamdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
