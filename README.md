@@ -7,6 +7,23 @@
 
 # The last thing that I learned was:
 
+- **2022-11-01 -> 2022-11-14**
+
+  - [null_ls](.)
+    - [x] add `mdformat`,`mdformat-tables` 
+    - [x] add `ltex`
+  - [linux](.)
+    - [x] `bandwith` in `statusbar`
+    - [x] change and save `backlight` using `xinitrc` and `backlight` wraper for `xbacklight`
+    - [x] improve `gtk` theme
+    - [x] refactore `stow` for `zsh`
+    - [x] fix `PATH` and `env $vars` by switch to use `.zprofile`
+    - [x] wrap `clang-format` by build from scratch.
+  - [nvim](.)
+    - [x] `ssr`: the powerfull `substitue`
+  - [scripts](.)
+    - [x] `yt`,`super`,`get-url`...
+
 - **2022-10-31 Tue**
 
   - [audio](.)
